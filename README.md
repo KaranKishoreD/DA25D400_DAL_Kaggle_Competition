@@ -22,4 +22,4 @@ Goal: predict a fitness score (1–10) for each *(metric, prompt, response)* tri
 
 ## Files
 - `da25d400-code-kaggle-competition.ipynb` — full code  
-- `da25d400_DAL_report` — final LaTeX report 
+- `DA25D400_DAL_report` — final LaTeX report 
